@@ -1,4 +1,5 @@
 # Credit-Default-Prediction
+![image](https://github.com/ROCeey/Credit-Default-Prediction/assets/67713745/41ae2378-28cf-4d04-ba06-15c4c693cd05)
 
 ## Project Rationale
 Because bank lending is the most common source of external funding for many Small and Medium Enterprises and entrepreneurs, there is a growing demand for loans to people and SMEs. People and businesses require loans for a variety of reasons, including cash emergencies, debt consolidation, and the start-up and/or expansion of a company. A substantial number of individuals and organizations in Nigeria are unable to obtain credit, and SMEs face similar challenges due to issues such as a lack of collateral, poor record-keeping, poor creditworthiness, and weak project proposals. For this reason, peer-to-peer lending platforms, which allow people and businesses to borrow and lend money without the involvement of a traditional financial institution have evolved over time.
