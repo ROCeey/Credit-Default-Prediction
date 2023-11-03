@@ -1,4 +1,4 @@
-# Credit-Default-Prediction
+# Application of AI Models for Credit Risk Assessment in P2P Lending
 ![image](https://github.com/ROCeey/Credit-Default-Prediction/assets/67713745/8b97e100-7092-49e3-a18a-f682164f10b2)
 
 ## Project Rationale
