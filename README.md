@@ -13,8 +13,8 @@ The overall aim of this project is to create a predictive loan risk model that w
 
 ## Research questions
 
-The major questions stated below should represent the bulk of this research's primary findings to meet the research's main goals and objectives. Among them are:
-1.	What are the key contributing factors that increase a borrower’s likelihood of defaulting on P2P lending platforms in Nigeria?
+The major questions stated below should represent the bulk of this research's primary findings to meet the project's main goals and objectives. Among them are:
+1.	What are the key contributing factors that increase a borrower’s likelihood of defaulting on P2P lending platforms?
 2.	Is the risk of loan default larger for first-time loans or repeat loans?
 3.	How accurately is the model performing to predict the probability of borrowers that will default?
 
