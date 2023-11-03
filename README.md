@@ -1,5 +1,4 @@
 # Credit-Default-Prediction
-![image](https://github.com/ROCeey/Credit-Default-Prediction/assets/67713745/41ae2378-28cf-4d04-ba06-15c4c693cd05)
 ![image](https://github.com/ROCeey/Credit-Default-Prediction/assets/67713745/8b97e100-7092-49e3-a18a-f682164f10b2)
 
 ## Project Rationale
